@@ -1,0 +1,86 @@
+Hi my name is Zoltan!
+
+
+
+I always wanted to make my own game trough my own vision! Now this is your chance to to take part of that vision!
+
+I wan t to create a massive Space Sim game where you will be able to Explore, Land on planets do Contracts, Build your own space stations and starports  to make lots of money! To the be able to Costumize your fleet! Have battles with massive KILOMETER/MILE Long Dreadnaughts and large fleets hire crews to man them (all of them personaly contollable with interiors(Not full scale in very large ships))! To then claim and colonise planets and star systems with your faction. 
+
+If this is not your cup of coffe you also will be able to hop into your mining barge and mine away in an asteroid field or in a planetary ring!
+
+Have an Extensive fleet manager from your tactical map asign your miners to mine then have fighters and frigattes protect them until it gets back to your station were after processing it could be sold by your Transporters or alocate it to the production of a POWERFULL WARSHIP to enforce your claims!
+
+I want this game to be SIMCADE difficult. What do i mean by that? My aim is the have 6 direction of travel with the need to couneract if you wanna go in another direction. In combat as many of you are aware of it in space there is no friction so kinetic projetiles go with muzzle velocity until they shit something I want that implemented too. Energy weapons will be good against Shileds, and Kinetics agains Soft armor, and Super Penetrators against Heavy armor.
+
+I'm Planing to launch with 9 Procedualy generated Star Systems with hand made elements all planets landable and 1 ship in every class of ship for 2-3 (AI) Factions with more being added every update with a monetization centered around early acces to these Ships a Star Systems
+
+Planets: Will be generated proceduraly then we will go over them and add structures and places where the player will be able to build his own operations be it a City for Trading a Mine for mining operations or Military Installation for the storage of arms and contoll of a planet. But beware most Cruisers and above WILL NOT be athnospheric capeable due to the limits of technology and you will crash!
+
+Instancing will be done like Elite Dangeuros to have better optimalisation and to lower pc requirements.
+
+Troughout the post i alluded to your Gen1 and Den2 Ships not being able to go faster than light wich will be the case with both generations being able to only go with 99% of the speed of light with various acceleraion speeds in travel mode. Dont Be afraid you WILL NOT HAVE TO  look at the srceen for hours to do a transit betwen planets in singleplayer. I want to make distances feel vast but not to the detrament of gameplay. Thus some realism will be sacreficed on the altar of enyojment.
+
+With that I intreduce the modes your ship would be in.
+
+Basic is when your only going a few hundred meters/s mainly will be used near stations above ground and in asteroid fields.
+
+Combat your manuvering thrusters kick in 1.5x mode weapons go online shield starts to glimmer, Ai starts to calculate leed, Prayers start.
+
+Mining Only avaible for Mining ships and Mining Barges Manuvering Thrusters become more responsive yet a bit slower too.
+
+Travel mode is self explenatory if you want to go places fast use this one. Altogh I m at an impas how to implement not having a jump drive into multiplayer. Cus in Singleplayer the clock will just go forward like 10 hours if your traveling betwen star systems. But in multiplayer this cannot be done. My idea is to have a 30 second traveling animation play betwen planets and 1m 30sec one betwen solarsystems  
+
+Classes of Ships will be:
+
+Starter -Small multirole ship to start the game with.
+Miner Mineral/Gas -From a small 1 man miner to a whole barge runnin an operation.
+Transport Mineral//Gas/Comodity -The backbone of any operation/project!
+Starfighter - Small limited range fighter with a big puch!
+Fighter/Heavy Fighter -Small Fighter with relativistic speed capeability.
+Frigatte -Support warship small size small guns exlelent manuverability.
+Destroyer -Backbone of any fleet decent in anything exept taking hits.
+Cruiser (Cruisin for a Brusin') -Big guns almost no armor yet one of the best!
+Battleship -Varies wildly for Gen to Gen But always brings Big Guns and Armor Can be 500 Meters long.
+Starfighter Carrier -45 Starfigters all armed with Termonucleal warheads... Ah Yes! Can be 700 meters long.
+Dreadnought -Admiral I want that general area GONEE by lunch! Only Gen2 Can be 1 Kilometers+ in lengt
+
+All ships will be either Generation 1, Generation 2 or Generation 3 and Small Meduim Large and XLarge
+
+-Gen 1 Ships are the earliest ships humanity built to conquer the stars they are usualy sporting an unbrella like appearance and have fotified armor to withstand impacts during interplanetary travel and due to this they are slow and lack many newer technologies. That DOES NOT MEAN that you can t retrofit one into a propper warship!
+
+Gen 2 Ships are the bread and butter of the modern age reliable fast advanced and have an Electromagneticly Projected Anti Kinetic Shield also can travel betwen star systems in mere hours!
+
+Gen 3 Ships Creme of the cop the most advanced and the fastest ships money can buy The first ever ships that have the energy prodiction necessary to continuosly Travel Faser Than Light. They have a lot of heat dissipation issues so they are usualy small and unsuitable for War. SAUDI-REDNER Usualy makes yacts out of Gen 3 ships!
+
+FOR YOUR SUPPORT I PROMISE!
+
+-A Playable game on release with!: 1st and 3rd Person, An Explorable 9 System wide area to play, Space combat, 1 Ship from every class from 2-3 Factions, Factions and War with them, The ability to build your own ships!,Fleet and Fleet command, Planetary Landings and Planetary bombardment of Ground installations! Andd more From future updates
+
+-Complete clarity and opennes about development on my Youtube Chanel!
+
+-Continued support after launch! 
+
+-Extra features after launch!
+
+-Benefits to those whom pledge:
+
+$60 Copy of the game and your name in an asteroid!
+$100 All of the above expet your name will be on a plaqe in a Starport.
+$250 All of the above exept you start with 1M Credit ingame.
+$500 All of the above but your name will be golden on the plaqe.
+$750 All of the above and you will start with a Gen2 Frigatte instead of a Starter Ship.
+$1000 All of the above but you start with 10M ingame Credit, More insight to development.
+$1250 All of the above BUT you start with your very own Dreadnought.
+$2000 All of the above But your name will be Emerald Coloured on the plaqe.
+$5000 All of the above And a lifetime Early acces to all updates and ships!
+$7500 All of the above And Become a Playtester of the Multiplayer update!
+$10000 All of the above and have 50M Starting ingame Credits and have a Starport/Space station named after you!
+$12500 All of the above but have a planet named after you!
+$15000 All of the above And tho have an Impot into development a feature you wanna see or a System named after you.
+$20000 Have a Capital Ship named and created after you!
+
+WARNING! OUR TEAM WILL NOT ACCEPT OFFENSIVE TERMS/NAMES FOR SPACE STATION NAMES,PLANET NAMES,STAR SYSTEM NAMES!
+
+I will admit outright My project has a high scope and a lot of insirations from X4 Fondations and Elite Dangeuros but not a single line of code will be the same!
+
+I dont know yet if Multiplayer is possible! But if it is it would be a monumental task will keep you updated on it.
